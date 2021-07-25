@@ -1,7 +1,7 @@
 name = "TopOptLevelSet"
 uuid = "6bdd9269-80dc-4ea4-ab9e-470a0531a81b"
 authors = ["Mohamed Tarek <mohamed82008@gmail.com> and contributors"]
-version = "0.1.0"
+version = "0.0.1"
 
 [compat]
 julia = "1"
