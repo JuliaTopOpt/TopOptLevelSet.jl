@@ -3,6 +3,11 @@ uuid = "6bdd9269-80dc-4ea4-ab9e-470a0531a81b"
 authors = ["Mohamed Tarek <mohamed82008@gmail.com> and contributors"]
 version = "0.0.1"
 
+[deps]
+Meshes = "eacbb407-ea5a-433e-ab97-5258b1ca43fa"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
+TupleTools = "9d95972d-f1c8-5527-a6e0-b4b365fa01f6"
+
 [compat]
 julia = "1"
 
