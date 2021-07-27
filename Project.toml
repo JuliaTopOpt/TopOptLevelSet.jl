@@ -4,7 +4,12 @@ authors = ["Mohamed Tarek <mohamed82008@gmail.com> and contributors"]
 version = "0.0.1"
 
 [deps]
+ChainRulesCore = "d360d2e6-b24c-11e9-a2a3-2a2ae2dbcce4"
+ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
 Meshes = "eacbb407-ea5a-433e-ab97-5258b1ca43fa"
+Reexport = "189a3867-3050-52da-a836-e630ba90ab69"
+SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
+SparseDiffTools = "47a9eef4-7e08-11e9-0b38-333d64bd3804"
 StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
 TupleTools = "9d95972d-f1c8-5527-a6e0-b4b365fa01f6"
 
