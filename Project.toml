@@ -15,8 +15,9 @@ TupleTools = "9d95972d-f1c8-5527-a6e0-b4b365fa01f6"
 
 [compat]
 Meshes = "0.16"
-TupleTools = "1"
+Reexport = "1"
 StaticArrays = "1"
+TupleTools = "1"
 julia = "1"
 
 [extras]
