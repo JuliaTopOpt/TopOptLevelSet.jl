@@ -16,6 +16,7 @@ TupleTools = "9d95972d-f1c8-5527-a6e0-b4b365fa01f6"
 [compat]
 ForwardDiff = "0.10"
 Meshes = "0.16"
+Reexport = "1"
 SparseDiffTools = "1"
 StaticArrays = "1"
 TupleTools = "1"
