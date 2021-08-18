@@ -14,6 +14,7 @@ StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
 TupleTools = "9d95972d-f1c8-5527-a6e0-b4b365fa01f6"
 
 [compat]
+ChainRulesCore = "1"
 ForwardDiff = "0.10"
 Meshes = "0.16"
 Reexport = "1"
